@@ -1,4 +1,4 @@
-# 🎵🎀 Agente de Descoberta Musical com IA 🎀🎵
+# 🎵 Agente de Descoberta Musical com IA 🎵
 
 ✨ Bem-vinda(o) ao meu **primeiro experimento com CrewAI**!  
 Este projeto ainda está na **fase inicial**, mas meu objetivo é criar um **chatbot musical**, que pode virar app, site ou até WhatsApp.  
@@ -28,9 +28,9 @@ Este projeto ainda está na **fase inicial**, mas meu objetivo é criar um **cha
 ---
 
 ## 🌟 O Que Você Pode Esperar
-- 🎵 **Surpresas:** artistas novos que você ainda não ouviu  
-- 💖 **Conforto:** músicas que trazem nostalgia e aconchego  
-- 🌈 **Conexão:** playlists perfeitas para seu humor e momento  
+- **Surpresas:** artistas novos que você ainda não ouviu  
+- **Conforto:** músicas que trazem nostalgia e aconchego  
+- **Conexão:** playlists perfeitas para seu humor e momento  
 
 ---
 
