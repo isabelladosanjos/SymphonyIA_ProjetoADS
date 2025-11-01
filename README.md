@@ -12,7 +12,7 @@ Apresento a vocês o **Symphony IA**!
 
 O app está **ao vivo e hospedado no Streamlit Community Cloud**. Você pode acessá-lo e encontrar sua trilha sonora perfeita agora mesmo:
 
-> **[[Link para o seu App Symphony IA]](https://symphonyiaprojetoads-5dfiru6tjoubjst8kvsabn.streamlit.app/)** 
+> **[Link para o App Symphony IA](https://symphonyiaprojetoads-5dfiru6tjoubjst8kvsabn.streamlit.app/)** 
 
 ---
 
